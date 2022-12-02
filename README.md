@@ -1,2 +1,2 @@
 # age_filter_using_js
-age filter above 18
+Age filter for above 18 years old people.
